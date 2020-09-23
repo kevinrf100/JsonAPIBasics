@@ -1,0 +1,19 @@
+{
+  "produtcs": [
+    {
+      "id": 1,
+      "name": "PC gamer",
+      "price": 1000
+    },
+    {
+      "id": 2,
+      "name": "Caneta BIC",
+      "price": 10
+    },
+    {
+      "id": 3,
+      "name": "Snoop",
+      "price": 10000000000000000
+    }
+  ]
+}
